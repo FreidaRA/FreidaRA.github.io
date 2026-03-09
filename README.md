@@ -1,3 +1,4 @@
+##Freida Atkins
 # programming profolio
 
 ##citty of chicago data visulazation
