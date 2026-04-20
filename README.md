@@ -11,3 +11,11 @@
 #image that is shown when there are zero Hamantaschen left.
 
 <img width="179" height="62" alt="plate with crumbs" src="https://github.com/user-attachments/assets/860e154b-9294-4a89-8172-0fa2b18e5a6e" />
+
+
+<img width="902" height="315" alt="Screenshot 2026-04-19 235718" src="https://github.com/user-attachments/assets/51795e68-f4d7-4540-b835-8636b4c9af1a" />
+
+
+<img width="2880" height="1800" alt="Screenshot 2026-03-16 210104" src="https://github.com/user-attachments/assets/c14f192d-1dd4-444a-aa8e-d3f27eed64a5" />
+<img width="2880" height="1800" alt="Screenshot 2026-03-16 210058" src="https://github.com/user-attachments/assets/28a21510-58b9-4b13-bbaf-44245b85226a" />
+<img width="2880" height="1800" alt="Screenshot 2026-03-16 210046" src="https://github.com/user-attachments/assets/7528f55d-21a2-48b3-b38b-4f2c869dbead" />
