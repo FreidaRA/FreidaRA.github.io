@@ -6,7 +6,7 @@
 
 
 #Assignment: JavaScript Guessing Game
-<img width="600" " alt="image" src="https://github.com/user-attachments/assets/398a4b98-86c4-4bf0-a1b1-df728ef407aa" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/398a4b98-86c4-4bf0-a1b1-df728ef407aa" />
 
 #image that is shown when there are zero Hamantaschen left.
 
